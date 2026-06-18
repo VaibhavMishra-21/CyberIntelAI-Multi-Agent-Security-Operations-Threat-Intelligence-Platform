@@ -1,0 +1,21 @@
+{
+  "Ransomware": {
+    "technique": "T1486",
+    "name": "Data Encrypted for Impact"
+  },
+
+  "Credential Theft": {
+    "technique": "T1003",
+    "name": "OS Credential Dumping"
+  },
+
+  "Phishing": {
+    "technique": "T1566",
+    "name": "Phishing"
+  },
+
+  "Malware": {
+    "technique": "T1204",
+    "name": "User Execution"
+  }
+}
